@@ -1,0 +1,24 @@
+POUSADA YRACEMA — PUBLICAR NO GITHUB PAGES
+
+1. Extraia este ZIP no computador.
+2. Crie um repositório público no GitHub, por exemplo pousada-yracema.
+3. No repositório, use Add file > Upload files.
+4. Envie index.html, style.css, app.js, .nojekyll e a pasta assets completa.
+   O index.html deve ficar na raiz do repositório, não dentro de outra pasta.
+   Envie os arquivos extraídos, não o ZIP. Preserve os nomes e a pasta assets.
+5. Clique em Commit changes.
+6. Abra Settings > Pages.
+7. Em Source, selecione Deploy from a branch.
+8. Selecione main e /(root), depois Save.
+9. Aguarde a publicação. O endereço aparecerá na área Pages.
+
+O site contém as fotos, a logo, os três vídeos, a galeria e a consulta pelo WhatsApp.
+Não exige instalação, banco de dados ou etapa de compilação.
+O formulário abre uma mensagem no WhatsApp; não confirma reservas.
+WhatsApp configurado: (27) 99898-9800.
+
+Para atualizar, substitua os arquivos alterados no repositório e confirme o commit.
+Domínio próprio pode ser configurado posteriormente em Settings > Pages.
+
+Documentação:
+https://docs.github.com/pt/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
